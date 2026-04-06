@@ -11,6 +11,7 @@ The core goal is to turn official documentation into high-quality reusable skill
 - `.github/skills/`: reusable domain skills (`SKILL.md` per skill folder)
 - `.github/instructions/`: persistent behavior instructions (`*.instructions.md`)
 - `.github/agents/`: custom agent definitions (`*.agent.md`)
+- `AGENTS.md`: agent-facing inventory of the repository files that define or document customizations
 
 ## Current Conventions
 
@@ -52,3 +53,4 @@ Use Conventional Commits for all commit messages.
 ## Notes
 
 This guide is repository-level context for agents and contributors. For specialization details, use the files under `.github/skills/`, `.github/instructions/`, and `.github/agents/`.
+Use [AGENTS.md](AGENTS.md) as the quick index when you need to find the relevant customization file by purpose.

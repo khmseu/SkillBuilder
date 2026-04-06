@@ -15,6 +15,7 @@ This repo is used to:
 - `.github/instructions/`: repository instructions and persistent behavior rules
 - `.github/agents/`: custom agents for specialized workflows
 - `agent.md`: repository-level guidance for agents working in this repo
+- `AGENTS.md`: agent-facing index of the repository's customization files and their purposes
 
 ## Working Conventions
 
@@ -57,3 +58,4 @@ This repository already contains:
 ## Notes
 
 Use `agent.md` for high-level repository guidance and the files under `.github/` for the concrete customizations themselves.
+Use [AGENTS.md](AGENTS.md) when you need a quick inventory of the agent-relevant files in this repository.
