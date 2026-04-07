@@ -28,15 +28,19 @@ Agent-facing index of repository files that define or document GitHub Copilot cu
 | `.github/skills/conventional-commits/SKILL.md` | skill | Write, review, lint, or automate Conventional Commits messages and SemVer-aware commit workflows. |
 | `.github/skills/doc-to-skill/SKILL.md` | skill | Convert official documentation URLs into reusable skill files with practical guidance and usage patterns. |
 | `.github/skills/e18e/SKILL.md` | skill | Improve JavaScript and TypeScript package ecosystem performance with e18e tooling and migration guidance. |
+| `.github/skills/lucide-react/SKILL.md` | skill | Use Lucide icons in React with named imports, size/color/stroke props, accessibility, and Tailwind sizing. |
 | `.github/skills/e18e-mcp/SKILL.md` | skill | Use `@e18e/mcp` to detect outdated or inefficient npm dependencies and analyze source imports. |
 | `.github/skills/git-start/SKILL.md` | skill | Apply safe Git fundamentals for setup, branching, remotes, staging, stashing, and collaboration. |
 | `.github/skills/github-vscode-pull-request-github/SKILL.md` | skill | Work with the GitHub Pull Requests and Issues VS Code extension for review and triage workflows. |
 | `.github/skills/nodejs/SKILL.md` | skill | Use production-safe Node.js runtime, module, stream, process, and backend patterns. |
 | `.github/skills/npm/SKILL.md` | skill | Work with npm installs, package metadata, lockfiles, scripts, workspaces, and publishing. |
 | `.github/skills/nuxt/SKILL.md` | skill | Build and maintain Nuxt applications with routing, SSR, layouts, middleware, and server routes. |
+| `.github/skills/php/SKILL.md` | skill | Use PHP language features, CLI/SAPI behavior, and security guidance from the official PHP manual. |
+| `.github/skills/prettier/SKILL.md` | skill | Configure and run Prettier for consistent code formatting with options, CI checks, and editor integration. |
 | `.github/skills/quasar/SKILL.md` | skill | Work with Quasar applications across SPA, SSR, PWA, mobile, and desktop build modes. |
 | `.github/skills/react/SKILL.md` | skill | Use modern React patterns for components, JSX, state, effects, refs, and rendering behavior. |
 | `.github/skills/react-charts/SKILL.md` | skill | Maintain legacy projects that still depend on deprecated TanStack React Charts APIs. |
+| `.github/skills/tailwindcss/SKILL.md` | skill | Build UIs with Tailwind CSS utility classes, state/responsive/dark mode variants, and conflict resolution. |
 | `.github/skills/tanstack-ai/SKILL.md` | skill | Build with TanStack AI abstractions, model integrations, streaming workflows, and type-safe SDK patterns. |
 | `.github/skills/tanstack-cli/SKILL.md` | skill | Use TanStack CLI commands for scaffolding, docs tooling, MCP integration, and automation. |
 | `.github/skills/tanstack-config/SKILL.md` | skill | Configure TanStack Config for lint, build, test, version, and publish workflows. |
@@ -53,9 +57,12 @@ Agent-facing index of repository files that define or document GitHub Copilot cu
 | `.github/skills/tanstack-store/SKILL.md` | skill | Build immutable reactive application state with TanStack Store and framework adapters. |
 | `.github/skills/tanstack-table/SKILL.md` | skill | Build headless tables and data grids with TanStack Table row models and controlled state. |
 | `.github/skills/tanstack-virtual/SKILL.md` | skill | Implement virtualization for large lists and grids with TanStack Virtual. |
+| `.github/skills/testing-library/SKILL.md` | skill | Test React components with @testing-library/react using accessible queries, render, screen, and async patterns. |
 | `.github/skills/typescript/SKILL.md` | skill | Apply strict, practical TypeScript patterns for typing, narrowing, generics, config, and migration. |
 | `.github/skills/vite/SKILL.md` | skill | Work with Vite config, plugins, environments, assets, and production builds. |
+| `.github/skills/vitest/SKILL.md` | skill | Write and configure Vite-native tests with Vitest, mocking, coverage, jsdom, and CI integration. |
 | `.github/skills/vue/SKILL.md` | skill | Use Vue 3 Composition API patterns for components, reactivity, props, events, watchers, and TypeScript. |
+| `.github/skills/zendframework/SKILL.md` | skill | Maintain and migrate legacy Zend Framework (ZF2/ZF3) applications to Laminas. |
 
 ## Usage Notes
 
