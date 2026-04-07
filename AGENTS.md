@@ -36,6 +36,7 @@ Agent-facing index of repository files that define or document GitHub Copilot cu
 | `.github/skills/npm/SKILL.md` | skill | Work with npm installs, package metadata, lockfiles, scripts, workspaces, and publishing. |
 | `.github/skills/nuxt/SKILL.md` | skill | Build and maintain Nuxt applications with routing, SSR, layouts, middleware, and server routes. |
 | `.github/skills/php/SKILL.md` | skill | Use PHP language features, CLI/SAPI behavior, and security guidance from the official PHP manual. |
+| `.github/skills/postgres/SKILL.md` | skill | Use Postgres.js with tagged SQL templates, dynamic query helpers, transactions, pooling, and type handling. |
 | `.github/skills/prettier/SKILL.md` | skill | Configure and run Prettier for consistent code formatting with options, CI checks, and editor integration. |
 | `.github/skills/quasar/SKILL.md` | skill | Work with Quasar applications across SPA, SSR, PWA, mobile, and desktop build modes. |
 | `.github/skills/react/SKILL.md` | skill | Use modern React patterns for components, JSX, state, effects, refs, and rendering behavior. |
