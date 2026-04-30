@@ -1,6 +1,7 @@
 ---
 name: tanstack-devtools
 description: "Use when integrating TanStack Devtools panels, diagnostics, and custom devtools experiences for TanStack-powered applications."
+context: fork
 ---
 
 # TanStack Devtools

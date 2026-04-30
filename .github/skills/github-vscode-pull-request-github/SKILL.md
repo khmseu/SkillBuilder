@@ -1,6 +1,7 @@
 ---
 name: github-vscode-pull-request-github
 description: "Use when working with the GitHub Pull Requests and Issues VS Code extension, including authentication, PR/issue triage, review workflows, query customization, and repository remotes configuration."
+context: fork
 ---
 
 # GitHub VS Code Pull Request Skill

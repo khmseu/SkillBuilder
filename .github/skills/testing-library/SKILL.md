@@ -1,6 +1,7 @@
 ---
 name: testing-library
 description: "Use when writing tests with @testing-library/react or @testing-library/dom, including render, screen queries, user interactions, async assertions, and accessible query priority. Trigger phrases: testing library, react testing library, @testing-library, screen.getBy, render component test, write component test, test react component"
+context: fork
 ---
 
 # Testing Library (React)

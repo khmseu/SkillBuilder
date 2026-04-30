@@ -1,6 +1,7 @@
 ---
 name: tanstack-config
 description: "Use when configuring TanStack Config tooling for lint/build/test/version/publish workflows in JavaScript/TypeScript package repositories."
+context: fork
 ---
 
 # TanStack Config

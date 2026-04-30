@@ -1,6 +1,7 @@
 ---
 name: tanstack-table
 description: "Use when building headless tables/datagrids with TanStack Table, including column defs, row models, sorting, filtering, pagination, and controlled table state."
+context: fork
 ---
 
 # TanStack Table

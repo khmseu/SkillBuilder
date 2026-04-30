@@ -1,6 +1,7 @@
 ---
 name: tanstack-db
 description: "Use when working with TanStack DB collections, live queries, optimistic mutations, and reactive client-first API data patterns."
+context: fork
 ---
 
 # TanStack DB

@@ -1,6 +1,7 @@
 ---
 name: tanstack-pacer
 description: "Use when implementing debouncing, throttling, rate limiting, batching, and queueing primitives with TanStack Pacer."
+context: fork
 ---
 
 # TanStack Pacer

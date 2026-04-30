@@ -1,6 +1,7 @@
 ---
 name: tanstack-query
 description: "Use when working with TanStack Query caching, fetching, mutations, invalidation, suspense, and server-state synchronization patterns across frameworks."
+context: fork
 ---
 
 # TanStack Query

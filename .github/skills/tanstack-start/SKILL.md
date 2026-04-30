@@ -1,6 +1,7 @@
 ---
 name: tanstack-start
 description: Use when working with TanStack Start (React), including file-based routing, isomorphic execution boundaries, server functions, server routes, SSR/SPA/static modes, environment variables, and deployment targets. Covers official TanStack Start guidance for safe full-stack patterns.
+context: fork
 ---
 
 # TanStack Start

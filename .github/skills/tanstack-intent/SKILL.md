@@ -1,6 +1,7 @@
 ---
 name: tanstack-intent
 description: "Use when creating and shipping agent skills with npm packages using TanStack Intent tooling, validation workflows, and skill packaging conventions."
+context: fork
 ---
 
 # TanStack Intent

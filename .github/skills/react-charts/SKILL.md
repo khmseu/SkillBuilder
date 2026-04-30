@@ -1,6 +1,7 @@
 ---
 name: react-charts
 description: "Use when maintaining legacy projects that still depend on deprecated TanStack React Charts APIs and migration-safe chart behavior."
+context: fork
 ---
 
 # React Charts (TanStack, Deprecated)

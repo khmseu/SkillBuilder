@@ -1,6 +1,7 @@
 ---
 name: tanstack-cli
 description: "Use when working with TanStack CLI commands, app scaffolding, docs tooling, MCP integration, and automation workflows."
+context: fork
 ---
 
 # TanStack CLI

@@ -1,6 +1,7 @@
 ---
 name: lucide-react
 description: "Use when working with Lucide icons in React applications, including installation, named imports, sizing, color, stroke width, accessibility, and dynamic icon patterns. Trigger phrases: lucide, lucide-react, lucide icons, svg icons react, icon component react"
+context: fork
 ---
 
 # Lucide React

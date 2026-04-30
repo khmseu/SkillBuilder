@@ -1,6 +1,7 @@
 ---
 name: tanstack-hotkeys
 description: "Use when implementing TanStack Hotkeys shortcuts, key sequences, recording, state tracking, and cross-platform keyboard interactions."
+context: fork
 ---
 
 # TanStack Hotkeys

@@ -1,6 +1,7 @@
 ---
 name: tailwindcss
 description: "Use when working with Tailwind CSS utility classes, installation/configuration, responsive variants, state variants, dark mode, and reusable component styling patterns. Trigger phrases: tailwind, tailwind css, tailwindcss, utility classes, tailwind variants, tailwind responsive, tailwind dark mode"
+context: fork
 ---
 
 # Tailwind CSS

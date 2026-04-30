@@ -1,6 +1,7 @@
 ---
 name: tanstack-form
 description: "Use when implementing TanStack Form schemas, validation, field state, submission workflows, and type-safe form logic in modern UI frameworks."
+context: fork
 ---
 
 # TanStack Form

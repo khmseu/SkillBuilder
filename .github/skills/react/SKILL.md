@@ -1,6 +1,7 @@
 ---
 name: react
 description: Use when working with React components, JSX, state management, effects, refs, controlled inputs, rendering performance, and modern React patterns. Covers official React docs and API reference for practical, predictable React development.
+context: fork
 ---
 
 # React

@@ -1,6 +1,7 @@
 ---
 name: git-start
 description: "Use when getting started with Git workflows: initial setup, init/clone, staging and commits, branching, remotes, pull/fetch/push, stashing, cleaning, and safe collaboration practices based on official git-scm docs."
+context: fork
 ---
 
 # Git Start

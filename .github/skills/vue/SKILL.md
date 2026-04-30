@@ -1,6 +1,7 @@
 ---
 name: vue
 description: "Use when working with Vue 3 components, Single-File Components, Composition API, reactivity, props/events, v-model, watchers, and TypeScript patterns based on official Vue documentation."
+context: fork
 ---
 
 # Vue

@@ -1,6 +1,7 @@
 ---
 name: vitest
 description: "Use when writing, configuring, or running tests with Vitest, including test files, mocking, snapshots, coverage, jsdom environment, concurrent tests, and integration with Vite config. Trigger phrases: vitest, vite test, vitest config, write vitest test, vitest mock, vitest coverage, vitest setup"
+context: fork
 ---
 
 # Vitest

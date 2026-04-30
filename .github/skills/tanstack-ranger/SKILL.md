@@ -1,6 +1,7 @@
 ---
 name: tanstack-ranger
 description: "Use when building headless range and multi-range slider controls with TanStack Ranger primitives."
+context: fork
 ---
 
 # TanStack Ranger

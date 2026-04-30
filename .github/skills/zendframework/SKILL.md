@@ -1,6 +1,7 @@
 ---
 name: zendframework
 description: "Use when maintaining or migrating Zend Framework (ZF) applications and components, including zend-mvc, Expressive, and package rename migration to Laminas. Trigger phrases: zendframework, zend framework, zf2, zf3, zend-mvc, zend expressive, migrate zend to laminas"
+context: fork
 ---
 
 # Zend Framework Skill

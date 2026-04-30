@@ -1,6 +1,7 @@
 ---
 name: e18e-mcp
 description: "Use when integrating or operating @e18e/mcp to detect inefficient or outdated npm dependencies, analyze source imports, and apply migration guidance via MCP tools/resources in AI coding workflows."
+context: fork
 ---
 
 # @e18e/mcp Skill

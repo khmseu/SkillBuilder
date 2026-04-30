@@ -1,6 +1,7 @@
 ---
 name: conventional-commits
 description: "Use when writing, reviewing, linting, or automating commit messages with the Conventional Commits 1.0.0 specification, including type/scope syntax, breaking change signaling, and SemVer/changelog workflows."
+context: fork
 ---
 
 # Conventional Commits

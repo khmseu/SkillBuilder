@@ -1,6 +1,7 @@
 ---
 name: prettier
 description: "Use when configuring, running, or integrating Prettier for code formatting, including .prettierrc options, CLI usage, editor integration, pre-commit hooks, and CI checks. Trigger phrases: prettier, code formatter, format code, prettierrc, prettier config, prettier cli, prettier check"
+context: fork
 ---
 
 # Prettier

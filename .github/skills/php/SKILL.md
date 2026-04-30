@@ -1,6 +1,7 @@
 ---
 name: php
 description: "Use when working with PHP language features, runtime behavior, CLI usage, and security guidance from the official PHP manual. Trigger phrases: php, php language, php cli, php security, php manual, write php, debug php"
+context: fork
 ---
 
 # PHP Skill

@@ -1,6 +1,7 @@
 ---
 name: tanstack-router
 description: "Use when working with TanStack Router routing trees, file/code-based routes, loaders, search params, navigation, and type-safe route APIs across React/Solid apps."
+context: fork
 ---
 
 # TanStack Router

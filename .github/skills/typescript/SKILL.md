@@ -1,6 +1,7 @@
 ---
 name: typescript
 description: "Use when working with TypeScript, tsconfig.json, strict type checking, narrowing, generics, module resolution, declaration files, or migrating JavaScript to TypeScript. Covers official TypeScript Handbook and TSConfig guidance for practical, type-safe code and compiler configuration."
+context: fork
 ---
 
 # TypeScript Skill

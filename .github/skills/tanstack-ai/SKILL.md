@@ -1,6 +1,7 @@
 ---
 name: tanstack-ai
 description: "Use when building with TanStack AI provider abstractions, model integrations, streaming workflows, and type-safe AI SDK patterns."
+context: fork
 ---
 
 # TanStack AI

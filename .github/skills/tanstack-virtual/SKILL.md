@@ -1,6 +1,7 @@
 ---
 name: tanstack-virtual
 description: "Use when implementing virtualization for large lists/grids with TanStack Virtual, including measurement, windowing, scrolling, and smooth rendering behavior."
+context: fork
 ---
 
 # TanStack Virtual

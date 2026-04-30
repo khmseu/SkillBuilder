@@ -1,6 +1,7 @@
 ---
 name: nodejs
 description: "Use when working with Node.js runtime APIs, module systems (CommonJS/ESM), package exports/imports, streams, child processes, process/env behavior, and backend service patterns. Covers official Node.js API and package-resolution guidance for practical, production-safe Node development."
+context: fork
 ---
 
 # Node.js Skill

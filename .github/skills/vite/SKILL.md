@@ -1,6 +1,7 @@
 ---
 name: vite
 description: "Use when working with Vite projects, vite.config, plugins, env modes, static assets, dependency pre-bundling, build output, deployment, or backend integration. Covers official Vite practices for fast dev workflows, production builds, and common configuration pitfalls."
+context: fork
 ---
 
 # Vite Skill

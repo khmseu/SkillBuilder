@@ -1,6 +1,7 @@
 ---
 name: quasar
 description: "Use when working with Quasar full-stack and cross-platform Vue applications, including Quasar CLI structure, SSR/SPA/PWA/mobile/desktop build modes, boot files, layouts/pages, Quasar components, and Pinia integration."
+context: fork
 ---
 
 # Quasar

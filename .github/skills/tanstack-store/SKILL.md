@@ -1,6 +1,7 @@
 ---
 name: tanstack-store
 description: "Use when building immutable-reactive application state with TanStack Store and framework adapters."
+context: fork
 ---
 
 # TanStack Store

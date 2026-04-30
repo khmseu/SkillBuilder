@@ -1,6 +1,7 @@
 ---
 name: nuxt
 description: "Use when working with Nuxt full-stack Vue applications, including file-based routing, SSR and rendering modes, Nitro server routes, data fetching with useFetch/useAsyncData, layouts, middleware, and Nuxt-specific conventions."
+context: fork
 ---
 
 # Nuxt

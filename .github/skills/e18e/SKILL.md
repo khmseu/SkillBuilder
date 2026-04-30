@@ -1,6 +1,7 @@
 ---
 name: e18e
 description: "Use when improving JavaScript/TypeScript package ecosystem performance with e18e docs and tooling, including @e18e/cli analyze and migrate workflows, dependency replacement guidance, and secure npm publishing practices."
+context: fork
 ---
 
 # e18e Skill

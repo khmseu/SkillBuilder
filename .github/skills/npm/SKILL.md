@@ -1,6 +1,7 @@
 ---
 name: npm
 description: "Use when working with npm, package.json, npm install, npm publish, npm workspaces, npm dependency management, npm scripts, package metadata, lockfiles, or registry publishing. Covers official npm CLI practices for installs, metadata, workspaces, publishing, and common dependency pitfalls."
+context: fork
 ---
 
 # NPM Skill

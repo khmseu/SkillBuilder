@@ -1,6 +1,7 @@
 ---
 name: postgres
 description: "Use when working with the postgres (postgres.js) client in Node.js/TypeScript, including tagged-template queries, dynamic SQL helpers, transactions, pooling, custom types, listen/notify, and connection options. Trigger phrases: postgres, postgres.js, npm postgres, sql tagged template, node postgres client"
+context: fork
 ---
 
 # Postgres.js (postgres)
