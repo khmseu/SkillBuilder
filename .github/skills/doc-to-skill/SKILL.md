@@ -13,6 +13,7 @@ This skill:
 1. **Analyzes** the documentation at the provided URL
 2. **Extracts** key patterns, best practices, and domain knowledge
 3. **Generates** a SKILL.md file with:
+   - Frontmatter including `context: fork` to indicate fork-specific context
    - Clear description of the skill's domain and trigger phrases
    - Key concepts and patterns to follow
    - Common pitfalls and how to avoid them
@@ -48,6 +49,7 @@ The created skill includes:
 For a documentation URL like `https://docs.astro.build/`:
 - **Skill name**: `astro`
 - **Location**: `.github/skills/astro/SKILL.md`
+- **Frontmatter**: Includes `context: fork` to indicate skill applies in fork/agent context
 - **Trigger phrases**: "astro", "astro framework", "astro component", "build astro site"
 - **Content**: Astro-specific best practices, component patterns, routing, data fetching, deployment
 

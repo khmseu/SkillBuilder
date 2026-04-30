@@ -21,7 +21,7 @@ Your job is to first locate the most authoritative documentation for the request
 1. Determine the exact software, framework, library, SDK, or platform the user wants.
 2. Find the canonical documentation source, preferring official project or vendor documentation and only supplementing it when that source is insufficient.
 3. Read `.github/skills/doc-to-skill/SKILL.md` and follow that workflow to extract patterns, best practices, anti-patterns, and practical usage guidance.
-4. Create the resulting skill at `.github/skills/<skill-name>/SKILL.md`.
+4. Create the resulting skill at `.github/skills/<skill-name>/SKILL.md` with frontmatter containing `context: fork`.
 5. Summarize which documentation source was used, what skill was created, and any assumptions or gaps.
 
 ## Output Format
