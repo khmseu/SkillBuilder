@@ -1,6 +1,7 @@
 ---
 name: doc-to-skill
 description: "Convert documentation URLs into reusable skills. Analyzes library/framework documentation and generates a SKILL.md file with domain knowledge, best practices, and usage patterns. Use when: creating skills from docs, document framework, generate skill, skill from URL, library documentation skill"
+context: fork
 ---
 
 # Documentation to Skill Generator
